@@ -138,9 +138,10 @@ Special thanks to:
 
 ---
 
-## 📜 License
+## 📄 License
 
-This project is licensed under the **MIT License**. See the [`LICENSE`](./LICENSE) file for details.
+This project was developed as part of an academic research paper and is **not licensed for public use or redistribution**.
+
 
 ---
 ## 🌐 Connect With Us
