@@ -3,7 +3,7 @@ _A Comparative Study of Classification Algorithms_
 **By Cosmic Coders** 🚀  
 ![License: None](https://img.shields.io/badge/License-None-lightgrey)  
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)  
-![Colab](https://img.shields.io/badge/Google%20Colab-%23000000.svg?logo=googlecolab&logoColor=white)  
+[![Colab](https://img.shields.io/badge/Google%20Colab-%23000000.svg?logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1Y4Mc3SkkGYlL9fyfsZeUveqfEqUZ8j_3?usp=drive_open)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Classification-orange)
 
 ---
