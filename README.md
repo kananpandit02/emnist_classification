@@ -143,14 +143,19 @@ Special thanks to:
 This project is licensed under the **MIT License**. See the [`LICENSE`](./LICENSE) file for details.
 
 ---
-
 ## 🌐 Connect With Us
 
-- Arnab Singha (B2430032)  
-- Kanan Pandit (B2430051)  
-- Ramakrishna Mission Vivekananda Educational and Research Institute  
-- 📍 Belur Math, Howrah, West Bengal  
-- ✉️ kananpandot02@gmail.com
+- **Arnab Singha** (B2430032)  
+  [🌐 Portfolio](https://arnabsingha200228.github.io/)  
+  ✉️ arnabsingha200228@gmail.com  
+
+- **Kanan Pandit** (B2430051)  
+  [🌐 Portfolio](https://kananpanditportfolio.netlify.app/)  
+  ✉️ kananpandot02@gmail.com  
+
+- **Ramakrishna Mission Vivekananda Educational and Research Institute**  
+  📍 Belur Math, Howrah, West Bengal
+
 
 ---
 
