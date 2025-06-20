@@ -1,7 +1,7 @@
 # ✨ EMNIST Handwritten Character Recognition
 _A Comparative Study of Classification Algorithms_  
 **By Cosmic Coders** 🚀  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)  
+![License: None](https://img.shields.io/badge/License-None-lightgrey)  
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)  
 ![Colab](https://img.shields.io/badge/Google%20Colab-%23000000.svg?logo=googlecolab&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Classification-orange)
